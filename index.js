@@ -110,6 +110,7 @@ else{
 
 window.requestAnimationFrame(main);
 window.addEventListener('keydown',e =>{
+    //start the game
     inputDir={
         x:0,y:1
     }
